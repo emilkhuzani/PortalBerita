@@ -1,6 +1,6 @@
 {
   "name": "PortalBerita",
-  "app_id": "",
+  "app_id": "0a973f02",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
